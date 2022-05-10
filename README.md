@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GbemilekeAyo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,CSSand javascript
-- 💞️ I’m looking to collaborate on people who are skill in the above mentioned
+- 💞️ I’m looking to collaborate with people who are skillful in the above mentioned
 - 📫 How to reach me onabajogbemileke37@gmail.com
 
 <!---
